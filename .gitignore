@@ -1,0 +1,15 @@
+# Ignorar todo
+*
+
+# Permitir tema
+!astra-child/
+
+# Permitir exports Elementor
+!elementor-exports/
+
+# Permitir assets
+!assets/
+
+# Permitir README y gitignore
+!README.md
+!.gitignore
