@@ -7,6 +7,10 @@
 # Permitir exports Elementor
 !elementor-exports/
 
+# Permitir su contenido
+!astra-child/**
+!elementor-exports/**
+
 # Permitir assets
 !assets/
 
