@@ -13,6 +13,7 @@
 
 # Permitir assets
 !assets/
+!assets/images/
 
 # Permitir README y gitignore
 !README.md
