@@ -20,3 +20,6 @@
 *.wpress
 node_modules/
 .DS_Store
+
+#permitr pdfs
+!*.pdf
