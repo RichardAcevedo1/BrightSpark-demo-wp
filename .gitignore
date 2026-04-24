@@ -17,3 +17,6 @@
 # Permitir README y gitignore
 !README.md
 !.gitignore
+*.wpress
+node_modules/
+.DS_Store
